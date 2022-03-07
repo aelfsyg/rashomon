@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>net.clojars.ae</groupId>
+  <groupId>com.aelfsyg</groupId>
   <artifactId>rashomon</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
-  <name>ae/rashomon</name>
-  <description>FIXME: my new library.</description>
-  <url>https://github.com/ae/rashomon</url>
+  <version>1.0.0</version>
+  <name>aelfsyg/rashomon</name>
+  <description>Rashomon constructs a datastructure from a collection of events.</description>
+  <url>https://github.com/aelfsyg/rashomon</url>
   <licenses>
     <license>
       <name>Eclipse Public License</name>
@@ -15,14 +15,14 @@
   </licenses>
   <developers>
     <developer>
-      <name>AlmostEducated</name>
+      <name>Ælfsyg</name>
     </developer>
   </developers>
   <scm>
-    <url>https://github.com/ae/rashomon</url>
-    <connection>scm:git:git://github.com/ae/rashomon.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/ae/rashomon.git</developerConnection>
-    <tag>v0.1.0-SNAPSHOT</tag>
+    <url>https://github.com/aelfsyg/rashomon</url>
+    <connection>scm:git:git://github.com/aelfsyg/rashomon.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/aelfsyg/rashomon.git</developerConnection>
+    <tag>v1.0.0</tag>
   </scm>
   <dependencies>
     <dependency>
